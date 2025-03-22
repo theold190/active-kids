@@ -10,7 +10,6 @@ Camps, kollo
 * [Code Summer Camp](https://codesummercamp.se/) a programming and new technology camps
 * [Mattekollo and Programmeringskollo](https://www.mattekollo.se/) a math and programming camp
 * Rid- och Gårdsläger in [Valla Ponnyklubb](https://vallaponnyklubb.se/lager/)
-* Summer education camps in Russian by [Marabou Club](https://camp.marabou.club/)
 
 Music, dance and art
 ---------------
@@ -44,3 +43,4 @@ Outside Östergötland
 --------------------
 * [Matteklubb FlowSverige](https://www.flowsverige.com/) in Stockholm
 * [Lilla Antikskolan](https://www.auctionetacademy.com/courses/-lilla-antikskolan-2024) in Stockholm
+* Summer education camps in Russian by [Marabou Club](https://camp.marabou.club/)
