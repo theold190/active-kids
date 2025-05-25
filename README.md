@@ -11,6 +11,10 @@ Camps, kollo
 * [Mattekollo and Programmeringskollo](https://www.mattekollo.se/) a math and programming camp
 * Rid- och Gårdsläger in [Valla Ponnyklubb](https://vallaponnyklubb.se/lager/)
 
+Food
+----
+* Thematic culinary workshops for kids at [Petra’s Cake](https://petrascake.se/temaworkshops-hos-petras-cake/)
+
 Music, dance and art
 ---------------
 * Barnmusik and barnkör in [Equmeniakyrkan](https://equmeniakyrkanlinkoping.se/)
@@ -32,8 +36,13 @@ Sport
 -----
 * Djungelgympa, Knatteskutt, Fotbollskul and Active Family from [Active academy](https://active-academy.org/)
 * Friidrottsskola with [Linköpings Godtemplares Idrottsförening (LGIF)](https://www.svenskalag.se/linkopingsgif-friidrottsskolasommar-24)
+* Go-kart camp with [HyrGokart.com](https://www.hyrgokart.com/gokart-kollo/)
 * Sailing on small boats (dinghy sailing) with [Linköpings Jolleseglarklubb](https://www.ljs.nu/) or [Vikingarnas Segel Sällskap](https://vss.nu/)
 * Ninja School, Breddas and Tjörnbro summer camps organized by [Alternativ Aktivitet](https://www.alternativaktivitet.se/)
+
+Other
+-----
+* Driving miniature cars in [ElbildsLandet](https://elbils-landet.se/)
 
 Events
 ------
@@ -41,6 +50,9 @@ Events
 
 Outside Östergötland
 --------------------
-* [Matteklubb FlowSverige](https://www.flowsverige.com/) in Stockholm
+* All year around club for kids speaking Russian by [Skruv](https://skruv.nu/ru/deti/)
+* [Kreativum](https://kreativum.se/en/) Science Center in Karlshamn
 * [Lilla Antikskolan](https://www.auctionetacademy.com/courses/-lilla-antikskolan-2024) in Stockholm
+* [Matteklubb FlowSverige](https://www.flowsverige.com/) in Stockholm
+* Summer circus by [Cirkus Cirkör](https://cirkor.se/kurser/)
 * Summer education camps in Russian by [Marabou Club](https://camp.marabou.club/)
